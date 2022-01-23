@@ -10,6 +10,7 @@ namespace sandesh
             var name = Console.ReadLine();
             var currentDate = DateTime.Now;
             Console.WriteLine($"{Environment.NewLine}Hello, {name}, on, {currentDate:d} at {currentDate:t}!");
+            Console.WriteLine("Hello. I have added this at "+currentDate);
             Console.WriteLine($"{Environment.NewLine}Press any key to exit......");
             Console.ReadKey(true);
         }

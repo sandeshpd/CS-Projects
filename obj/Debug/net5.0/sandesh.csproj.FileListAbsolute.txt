@@ -1,0 +1,16 @@
+D:\Visual Studio\Practice\C#\sandesh\bin\Debug\net5.0\sandesh.exe
+D:\Visual Studio\Practice\C#\sandesh\bin\Debug\net5.0\sandesh.deps.json
+D:\Visual Studio\Practice\C#\sandesh\bin\Debug\net5.0\sandesh.runtimeconfig.json
+D:\Visual Studio\Practice\C#\sandesh\bin\Debug\net5.0\sandesh.runtimeconfig.dev.json
+D:\Visual Studio\Practice\C#\sandesh\bin\Debug\net5.0\sandesh.dll
+D:\Visual Studio\Practice\C#\sandesh\bin\Debug\net5.0\ref\sandesh.dll
+D:\Visual Studio\Practice\C#\sandesh\bin\Debug\net5.0\sandesh.pdb
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\sandesh.csprojAssemblyReference.cache
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\sandesh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\sandesh.AssemblyInfoInputs.cache
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\sandesh.AssemblyInfo.cs
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\sandesh.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\sandesh.dll
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\ref\sandesh.dll
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\sandesh.pdb
+D:\Visual Studio\Practice\C#\sandesh\obj\Debug\net5.0\sandesh.genruntimeconfig.cache
